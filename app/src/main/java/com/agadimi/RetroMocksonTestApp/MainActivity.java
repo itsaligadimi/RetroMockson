@@ -1,4 +1,4 @@
-package com.agadimi.retromockson;
+package com.agadimi.RetroMocksonTestApp;
 
 import android.os.Bundle;
 import android.os.Handler;

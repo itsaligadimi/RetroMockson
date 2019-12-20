@@ -1,4 +1,4 @@
-package com.agadimi.retromockson;
+package com.agadimi.RetroMocksonTestApp;
 
 import android.content.Context;
 

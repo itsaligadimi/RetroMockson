@@ -1,4 +1,4 @@
-package com.agadimi.retromockson;
+package com.agadimi.RetroMocksonTestApp;
 
 import okhttp3.ResponseBody;
 import retrofit2.Call;

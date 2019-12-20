@@ -1,8 +1,7 @@
-package com.agadimi.retromockson;
+package com.agadimi.RetroMocksonTestApp;
 
 import android.app.Application;
 
-import okhttp3.OkHttpClient;
 import retrofit2.Retrofit;
 
 // retrofit + application ===> retlication :D
